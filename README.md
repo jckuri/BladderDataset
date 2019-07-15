@@ -5,4 +5,4 @@
 the expert system, which will perform the presumptive diagnosis of two 
 diseases of the urinary system.
 
-![Bladder](images/Day%2009.jpg)
+![Bladder](Day%2009.jpg)
