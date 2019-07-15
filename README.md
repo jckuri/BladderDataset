@@ -5,4 +5,6 @@
 the expert system, which will perform the presumptive diagnosis of two 
 diseases of the urinary system.
 
+**Instructions:** Download and run the Jupyter notebook **Bladder Dataset.ipynb**
+
 ![Bladder](Day%2009.jpg)
