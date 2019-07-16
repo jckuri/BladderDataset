@@ -7,4 +7,4 @@ diseases of the urinary system.
 
 **Instructions:** Download and run the Jupyter notebook **Bladder Dataset.ipynb**
 
-![Bladder](Day%2009.jpg)
+![Bladder](bladder.jpg)
