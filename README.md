@@ -7,5 +7,5 @@ diseases of the urinary system.
 
 **Instructions:** Download and run the Jupyter notebook **Bladder Dataset.ipynb**
 <p align="center">
- ![Bladder](bladder.jpg)
+ <img src="bladder.jpg" alt="Bladder">
 </p>
