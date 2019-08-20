@@ -29,15 +29,15 @@ Machine learning projects are great to improve our world, to solve problems, and
 
 This machine learning system also has a lot of potential for the future. The code of this ML system is pattern that can be copied and extrapolated to more complex kinds of diagnoses. For example, we can change the logistic regression algorithm for a convolutional neural network capable of dealing with datasets of medical images. And the logic to protect the privacy of datasets in each hospital will be the same.
 
-## FEDERATED LEARNING WITH A TRUSTED AGGREGATOR
+## Federate Learning with a Trusted Aggregator
 
-Let's assume we have 4 hospitals. (The datasets will be split in 4, randomly.) And the 4 hospitals cannot share their cases because they are competitors. Hence, the ML model will be learned in a federated way by sending the model updates to a trusted aggregator that will average the model updates. The updated model will be sent back to each hospital in order to train the ML model in an iterative way. Only the ML model will be shared whereas the cases of each hospital will be kept private and will train model updates in a local way.<br>
+In this demo, there are 4 hospitals. (The datasets will be split in 4, randomly.) And the 4 hospitals cannot share their cases because they are competitors. Hence, the ML model will be learned in a federated way by sending the model updates to a trusted aggregator that will average the model updates. The updated model will be sent back to each hospital in order to train the ML model in an iterative way. Only the ML model will be shared. Whereas the cases of each hospital will be kept private and will train model updates in a local way.<br>
 <br>
 
-<center>
+<p align="center">
  <img src="images/federated-learning.png">
  Federated Learning - Image taken from <a href="https://www.intel.ai/federated-learning-for-medical-imaging/">https://www.intel.ai/federated-learning-for-medical-imaging/</a>
-</center>
+</p>
 
 ## Author
 Juan Carlos Kuri Pinto<br>
