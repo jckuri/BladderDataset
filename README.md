@@ -1,9 +1,7 @@
-# Bladder Dataset
+# Diagnosing Acute Inflammations of Bladder
 **SOURCE: https://archive.ics.uci.edu/ml/datasets/Acute+Inflammations**
 
-**Abstract:** The data was created by a medical expert as a data set to test 
-the expert system, which will perform the presumptive diagnosis of two 
-diseases of the urinary system.
+**Abstract:** This machine learning system can diagnose 2 acute inflammations of bladder. The medical dataset contains features and diagnoses of 2 diseases of the urinary system: Inflammation of urinary bladder and Nephritis of renal pelvis origin. This medical dataset truly needs privacy! Because we cannot divulge the sexually-transmitted diseases of patients. So, all we learned about PySyft and OpenMined will be applied in this project.
 
 **Software Requirements:**
 - Python 3.7.3 (imports: urllib.request, numpy, torch, torch.autograd, torch.nn, torch.nn.functional, torch.optim, matplotlib.pyplot, syft)
