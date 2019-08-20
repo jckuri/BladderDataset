@@ -4,6 +4,7 @@
 This machine learning system can diagnose 2 acute inflammations of bladder. The medical dataset contains features and diagnoses of 2 diseases of the urinary system: Inflammation of urinary bladder and nephritis of renal pelvis origin. This medical dataset truly needs privacy! Because we cannot divulge the sexually-transmitted diseases of patients. So, all we learned about PySyft and OpenMined will be applied in this project. Federated learning will protect the privacy of datasets in each hospital and at the same time, a more robust machine learning model will benefit all hospitals.
 
 ## DATASET
+
 Acute Inflammations Data Set <br>
 https://archive.ics.uci.edu/ml/datasets/Acute+Inflammations
 
@@ -12,12 +13,18 @@ https://archive.ics.uci.edu/ml/datasets/Acute+Inflammations
 </p>
 
 ## Software Requirements
+
 - Python 3.7.3 (imports: urllib.request, numpy, torch, torch.autograd, torch.nn, torch.nn.functional, torch.optim, matplotlib.pyplot, syft)
 - PyTorch 1.1.0
 - PySyft 
 
 ## Instructions
+
 Download and run the Jupyter notebook **Bladder Dataset.ipynb**
+
+## Relevance & Potential 
+
+Machine learning projects are great to improve our world, to solve problems, and to make informed decisions. This project could help doctors to diagnose diseases of the urinary tract correctly. And then doctors could take the appropriate actions to cure such diseases. However, a forgotten aspect
 
 ## FEDERATED LEARNING WITH A TRUSTED AGGREGATOR
 
