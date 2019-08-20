@@ -28,3 +28,9 @@ Let's assume we have 4 hospitals. (The datasets will be split in 4, randomly.) A
  <img src="images/federated-learning.png">
  Federated Learning - Image taken from <a href="https://www.intel.ai/federated-learning-for-medical-imaging/">https://www.intel.ai/federated-learning-for-medical-imaging/</a>
 </center>
+
+## Author
+Juan Carlos Kuri Pinto
+Slack: @Juan Carlos Kuri Pinto
+LinkedIn: https://www.linkedin.com/in/jckuri/
+E-mail: jckuri@gmail.com
