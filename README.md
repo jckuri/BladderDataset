@@ -38,7 +38,7 @@ How? Federated learning is iterated 1000 times. At each iteration, a copy of the
 In this way, only the ML model will be shared. Whereas the local cases of each hospital will be kept private and they will be used to train model updates in a local way. Federated learning will protect the privacy of datasets in each hospital and at the same time, we will generate a more robust machine learning model, which will benefit all hospitals. This shared ML model preserves the privacy of individual patients and at the same time, reveals important statistics of stereotypical cases.
 
 <p align="center">
- <img src="images/federated-learning.png">
+ <img src="images/federated-learning.png"><br>
  Federated Learning - Image taken from <a href="https://www.intel.ai/federated-learning-for-medical-imaging/">https://www.intel.ai/federated-learning-for-medical-imaging/</a>
 </p>
 
