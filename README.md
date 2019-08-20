@@ -6,7 +6,7 @@ the expert system, which will perform the presumptive diagnosis of two
 diseases of the urinary system.
 
 **Software Requirements:**
-- Python 3.7.3
+- Python 3.7.3 (imports: urllib.request, numpy, torch, torch.autograd, torch.nn, torch.nn.functional, torch.optim, matplotlib.pyplot, syft)
 - PyTorch 1.1.0
 - PySyft 
 
