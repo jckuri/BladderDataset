@@ -31,6 +31,7 @@ Let's assume we have 4 hospitals. (The datasets will be split in 4, randomly.) A
 
 ## Author
 Juan Carlos Kuri Pinto<br>
-Slack: @Juan Carlos Kuri Pinto<br>
-LinkedIn: https://www.linkedin.com/in/jckuri/<br>
-E-mail: jckuri@gmail.com<br>
+**Slack:** @Juan Carlos Kuri Pinto<br>
+**LinkedIn:** https://www.linkedin.com/in/jckuri/<br>
+**GitHub:** https://github.com/jckuri<br>
+**E-mail:** jckuri@gmail.com<br>
