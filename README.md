@@ -5,6 +5,11 @@
 the expert system, which will perform the presumptive diagnosis of two 
 diseases of the urinary system.
 
+**Software Requirements:**
+- Python 3.7.3
+- PyTorch 1.1.0
+- PySyft 
+
 **Instructions:** Download and run the Jupyter notebook **Bladder Dataset.ipynb**
 <p align="center">
  <img src="images/bladder.jpg" title="Bladder">
