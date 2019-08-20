@@ -31,7 +31,7 @@ This machine learning system also has a lot of potential for the future. The cod
 
 ## Federate Learning with a Trusted Aggregator
 
-In this demo, there are 4 hospitals. (The datasets will be split in 4, randomly.) And the 4 hospitals cannot share their cases because they are competitors. Hence, the ML model will be learned in a federated way by sending the model updates to a trusted aggregator that will average the model updates. The updated model will be sent back to each hospital in order to train the ML model in an iterative way. Only the ML model will be shared. Whereas the cases of each hospital will be kept private and will train model updates in a local way. Federated learning will protect the privacy of datasets in each hospital and at the same time, a more robust machine learning model will benefit all hospitals.<br>
+In this demo, there are 4 hospitals. (The datasets will be split in 4, randomly.) There could be more hospitals. And the 4 hospitals cannot share their cases because they are competitors. Hence, the ML model will be learned in a federated way by sending the model updates to a trusted aggregator that will average the model updates. The updated model will be sent back to each hospital in order to train the ML model in an iterative way. Only the ML model will be shared. Whereas the cases of each hospital will be kept private and will train model updates in a local way. Federated learning will protect the privacy of datasets in each hospital and at the same time, a more robust machine learning model will benefit all hospitals.<br>
 
 <p align="center">
  <img src="images/federated-learning.png">
