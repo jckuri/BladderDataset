@@ -21,7 +21,7 @@ Please make sure that the following software is installed before running this ma
 
 ## Instructions
 
-Download all the files and run the Jupyter notebook <a href='Bladder Dataset.ipynb'>Bladder Dataset.ipynb</a>, which contains both explanations and source code.
+Download all the files and run the Jupyter notebook "Bladder Dataset.ipynb", which contains both explanations and source code.
 
 Here are some Unix commands to run the Jupyter notebook "Bladder Dataset.ipynb": 
 
@@ -30,6 +30,8 @@ Here are some Unix commands to run the Jupyter notebook "Bladder Dataset.ipynb":
 source activate spaic 
 jupyter notebook Bladder\ Dataset.ipynb
 ```
+
+You can also click on the Jupyter notebook <a href='Bladder Dataset.ipynb'>Bladder Dataset.ipynb</a> directly.
 
 ## Relevance & Potential 
 
