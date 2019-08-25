@@ -23,7 +23,7 @@ Please make sure that the following software is installed before running this ma
 
 Download all the files and run the Jupyter notebook <a href='Bladder Dataset.ipynb'>Bladder Dataset.ipynb</a>, which contains both explanations and source code.
 
-Unix commands to run the Jupyter notebook "Bladder Dataset.ipynb": 
+Here are some Unix commands to run the Jupyter notebook "Bladder Dataset.ipynb": 
 
 ```
 # spaic is a conda environment with Python, PyTorch, and PySyft already installed.
