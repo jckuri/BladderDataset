@@ -15,9 +15,9 @@ https://archive.ics.uci.edu/ml/datasets/Acute+Inflammations
 ## Software Requirements
 
 Please make sure that the following software is installed before running this machine learning system:
-- Python 3.7.3 (imports: urllib.request, numpy, torch, torch.autograd, torch.nn, torch.nn.functional, torch.optim, matplotlib.pyplot, syft)
-- PyTorch 1.1.0
-- PySyft 
+- Python 3.7.3 (imports: urllib.request, numpy, matplotlib.pyplot)
+- PyTorch 1.1.0 (imports: torch, torch.autograd, torch.nn, torch.nn.functional, torch.optim)
+- PySyft (imports: syft)
 
 ## Instructions
 
